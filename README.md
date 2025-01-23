@@ -1,7 +1,6 @@
 # Twitter Sentiment Analysis
 
 This project allows you to fetch recent tweets using the Twitter API, clean the tweet data, and analyze the sentiment (positive, neutral, or negative) of the tweets. It then visualizes the sentiment distribution in a bar chart and saves the data to a CSV file.
-Here’s the entire response in Markdown format:
 
 ## Setup
 
